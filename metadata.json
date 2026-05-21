@@ -1,0 +1,6 @@
+{
+  "name": "StepSync Pro",
+  "description": "Futuristic luxury fitness + smartwatch ecosystem tracking daily steps, goals, GPS routes, health vitals, with built-in AI coaching",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
